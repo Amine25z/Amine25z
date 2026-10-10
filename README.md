@@ -1,16 +1,16 @@
-## Hi there 👋
+# Hi, I'm Amine Hedhili
 
-<!--
-**Amine25z/Amine25z** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Electronics & Communication Engineering student focused on **network security** and **IoT security**.
 
-Here are some ideas to get you started:
+## What I'm working on
+- Embedded / IoT security 
+- A public daily learning log: [learning-log](https://github.com/Amine25z/learning-log)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+## Looking for
+End-of-studies internship (PFE) in cybersecurity: IoT/product security, SOC, IAM. Avalaible from January 2027
+
+## Contact
+- Email: aminehedhili007@gmail.com
+- LinkedIn: [in/amine-hedhili1](https://www.linkedin.com/in/amine-hedhili1)
